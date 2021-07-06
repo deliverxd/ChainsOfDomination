@@ -1,8 +1,7 @@
 # Sanctum of Domination
 
-## DPS only heroic guide
+## This is mostly for DPS and should be only used as a reminder. 
 - [Sanctum of Domination](#sanctum-of-domination)
-  - [DPS only heroic guide](#dps-only-heroic-guide)
   - [Tarragrue](#tarragrue)
   - [Eye of the Jailer](#eye-of-the-jailer)
   - [The Nine](#the-nine)
@@ -18,21 +17,26 @@
 
 ## Tarragrue
 
+**--> DO NOT PICK UP THE 2 POWERFUL ANIMAS <--**
+
+Ten of Towers & Lumbering Form
 
 > **Phase 1**. 
 
+
 **Chains of Eternity** : Call for immune or help out 
 
-**Predator’s Howl** : Avoid purple circle
+**Predator’s Howl** : Avoid purple circle - Stand still with the debuff
 
 **Remnant of Forgotten Torments** : Soak the gray circle
 
+**Fury of the Ages** : Remove the enrage  (Hunter, rogue and druid)
 
 > **Interphase**. 
 
-Find safe spot to stand in
+**Hungering Mist** : Find safe spot to stand in
 
-> **Phase 2**. 
+> **Phase 2**. Starts at 10% HP
 
 Kill this fu***** boss
 
@@ -77,7 +81,7 @@ Kill this fu***** boss
 
 **Brynja’s Mournful Dirge** : Spread if you have a small circle
 
-**Arthura’s Crushing Gaze** : Soak for your friend
+**Arthura’s Crushing Gaze** : Soak the big blue swirly
 
 **--> Kick the adds <--**
 
@@ -92,7 +96,7 @@ Kill this fu***** boss
 
 > **Phase 1**.
 
-**Malevolence** : Go to the edge and don't get knocked off
+**Malevolence** : Face outwards and drop on the edge
 
 **Orb of Torment** :  Kill the orbs and throw them off
 
@@ -134,7 +138,7 @@ Kill this fu***** boss
 
 **Dualblade Scythe** : Dodge the spikes
 
-**Spiked Balls** : Kill a ball 
+**Spiked Balls** : Range kill a ball and stand behind if you have chains
 
 **Flameclasp Trap** : Trigger traps (not all at once)
 
@@ -172,9 +176,9 @@ Kill this fu***** boss
 
 **Call of Eternity** : Dodge bombs opposite direction from previous set
 
-**Invoke Destiny** : Kill the adds that spawns
+**Invoke Destiny** : Kill and CC the adds that spawns
 
-> **Phase 2**.
+> **Phase 2**. Starts at 70% and 40% HP
 
 **Roh-Kalo's Mini Game** : Move the runes in the sockets
 
@@ -204,6 +208,15 @@ Kill this fu***** boss
 
 **Soul Fracture** : Kick and kill the adds
 
+> **Phase 2**. Starts at 0% HP. Half the DPS (melee preferred) and Healers go in the phylactery room
+
+**Demolish** : Dodge the beam
+
+**Banshee’s Cry** : Kick the adds
+
+**Shadow Fissure & Glacial Winds** : Dodge
+
+**Necrotic Empowerment** : Kill the adds before phase 1 starts again
 
 ---
 
